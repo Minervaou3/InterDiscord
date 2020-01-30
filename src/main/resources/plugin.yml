@@ -1,0 +1,7 @@
+main: kr.kro.Minerva.InterDiscord.Main
+name: InterDiscord
+version: 1.3
+description: 디스코드와 마인크래프트의 연동 플러그인 입니다.
+api-version: 1.12.2
+author: Minerva_ou3
+prefix: InterDiscord
